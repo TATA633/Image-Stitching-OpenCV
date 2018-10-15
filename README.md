@@ -1,4 +1,4 @@
-# image_stitching
+# Image-Stitching-OpenCV
 Simple image stitching algorithm using SIFT, homography, KNN and Ransac in Python.
 For full details and explanations, you're welcome to read `image_stitching.pdf`. 	
 
@@ -6,11 +6,11 @@ The project is to implement a featured based automatic image stitching algorithm
 
 We use scale invariant features transform(SIFT) to extract local features of the input images, K nearest neighbors algorithms to match these features and Random sample consensus(Ransac) to calculate the homograph matrix, which will be used for image warping. Finally we apply a weighted matrix as a mask for image blending.
 
-## dependency
+## Dependency
 - Python 2 or 3 
 - OpenCV 3
 
-## usage
+## Usage
 `python Image_Stitching [/PATH/img1] [/PATH/img2]`
 
 ## Sample 
