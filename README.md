@@ -8,3 +8,13 @@ For full details and explanations, you're welcome to read `image_stitching.pdf`.
 
 ## usage
 `python Image_Stitching [/PATH/img1] [/PATH/img2]`
+
+## Sample 
+
+## Input images
+
+![img1](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/q11.jpg) 
+![img2](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/q22.jpg)
+
+## Output image
+![pano](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/panorama.jpg)
