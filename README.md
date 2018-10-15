@@ -29,5 +29,5 @@ We use scale invariant features transform(SIFT) to extract local features of the
 Room:
 ![room](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/room.jpg)
 
-Another building:
+Another building: This is a stitching of three related images. It doesn't work so well. Trying to improve.
 ![gym](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/gym.jpg)
