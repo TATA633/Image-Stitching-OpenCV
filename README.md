@@ -12,9 +12,8 @@ For full details and explanations, you're welcome to read `image_stitching.pdf`.
 ## Sample 
 
 ## Input images
+<img src="https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/q11.jpg" width=300 height=200 >
 
-![img1](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/q11.jpg) 
-![img2](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/q22.jpg)
 
 ## Output image
 ![pano](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/panorama.jpg)
