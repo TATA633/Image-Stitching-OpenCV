@@ -14,5 +14,8 @@ For full details and explanations, you're welcome to read `image_stitching.pdf`.
 ## Input images
 <img src="https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/q11.jpg" width=300 height=400 >   <img src="https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/q22.jpg" width=300 height=400 >
 
+## Matching
+![pano](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/matching.jpg)
+
 ## Output image
 ![pano](https://github.com/linrl3/Image-Stitching-OpenCV/blob/master/images/panorama.jpg)
