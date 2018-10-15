@@ -1,5 +1,6 @@
 # image_stitching
-Simple image stitching algorithm using SIFT, homography, KNN and Ransac in Python
+Simple image stitching algorithm using SIFT, homography, KNN and Ransac in Python.
+For full details and explanations, you're welcome to read `image_stitching.pdf`. 	
 
 ## dependency
 - Python 2 or 3 
